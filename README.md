@@ -1,4 +1,5 @@
-# Project-1
-Project 1:
+NSearch
+
+Nsearch is a platform that brings creative people together to collaborate and create cool stuff together 
 
 https://xkingalex.github.io/NSearch/

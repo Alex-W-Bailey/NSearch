@@ -3,7 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
 NSearch is a platform that brings people together to collaborate on projects together. For NSearch, we really wanted to 
@@ -12,15 +11,7 @@ together.
 
 ## Technologies
 Project is created with:
-* Node.js
-* Express
+* HTML / CSS
 * JavaScript
 * Firebase
-	
-## Setup
-To run this project, install it locally using npm:
 
-```
-$ cd NSearch
-$ npm install
-$ npm start
